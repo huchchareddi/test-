@@ -1,0 +1,111 @@
+scripts      C:\Users\DELL\AppData\Local\Programs\Python\Python37\Scripts\
+path   C:\Users\DELL\AppData\Local\Programs\Python\Python37\
+apps installed path       %USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+
+C:\Program Files (x86)\Foxit Software\Foxit Reader
+
+%temp%
+
+function f10  to trun on and trun off keyboard light 
+
+
+pip install tensorflow
+pip install --ignore-installed --upgrade tensorflow==1.9
+
+pip install package name
+
+pip install pillow
+pip install opencv-python
+pip install opencv-contrib-python
+pip install opencv-contrib-python==3.3.0.9
+pip install XlsxWriter
+pip install lxml
+pip install jupyter
+pip install matplotlib
+
+pip install pillow
+pip install pandas
+pip install numpy
+pip install tkintertable
+pip install Pillow==2.2.2
+
+
+pip install robotframework-databaselibrary  
+pip install config
+
+
+
+pip install Flask-Mail
+git clone https://github.com/mattupstate/flask-mail.git
+cd flask-mail
+python setup.py install
+
+
+pip install smtp-mail
+pip install python-simplemail
+pip install dj-email-url
+python -m easy_install pymongo
+python -m pip install pymongo[gssapi]
+python -m pip install pymongo[srv]
+pip install certifi
+pip install ipaddress
+pip install wincertstore
+pip install pykerberos (not installed )
+pip install winkerberos
+pip install setuptools
+pip install backports.pbkdf2
+
+
+
+python -m ensurepip --default-pip
+python -m pip install --upgrade pip setuptools wheel
+
+
+
+
+
+
+upgrade
+pip install --upgrade
+
+python -m pip install --upgrade pymongo
+python -m easy_install -U pymongo
+
+python -m pip install --upgrade pillow
+python -m pip install --upgrade pandas
+python -m pip install --upgrade numpy
+pip install --upgrade Flask
+python -m pip install --upgrade tkintertable
+python -m pip install --upgrade opencv-python
+python -m pip install --upgrade matplotlib
+python -m pip install --upgrade
+
+
+
+
+python -m pip install --upgrade
+
+
+jupyter note book 
+object detection 
+search-ms:displayname=Search%20Results%20in%20research&crumb=location:E%3A%5CDocketrunTensorflowObjDetection%5CTensorflow%5Cresearch\object_detection
+search-ms:displayname=Search%20Results%20in%20research&crumb=location:E%3A%5CDocketrunTensorflowObjDetection%5CTensorflow%5Cresearch\object_detection
+E:\DocketrunTensorflowObjDetection\Tensorflow\research\build\lib\object_detection>
+E:\DocketrunTensorflowObjDetection\Tensorflow\research\object_detection\data\mscoco_label_map.pbtxt
+
+video : E:\videos\cam_11\cam_11.mp4
+images : E:\videos\cam_11\images 
+
+
+
+https://www.google.com/search?q=thank+you+letter+for+donor&tbm=isch&source=iu&ictx=1&fir=K-Ei51tH82OgIM%253A%252C3wl8WwFRuPQb9M%252C_&vet=1&usg=AI4_-kTdVaxKpu0XEAeHBi0FpHK0N2aFIw&sa=X&ved=2ahUKEwiuurSjpIHoAhUZcCsKHTNRCjIQ_h0wDHoECBAQBg&biw=1280&bih=610#imgrc=IePvlnS5HU6mgM
+
+
+
+
+insert_many = https://api.mongodb.com/python/current/api/pymongo/collection.html#pymongo.collection.Collection.insert_many
+https://api.mongodb.com/python/current/tutorial.html
+https://api.mongodb.com/python/current/examples/index.html
+
+docketrun@gmail.com
+Ajayvinu@123

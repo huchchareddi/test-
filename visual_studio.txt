@@ -1,0 +1,14 @@
+for setup/linux code  
+https://code.visualstudio.com/docs/setup/linux
+https://code.visualstudio.com/docs/setup/linux
+
+
+for error installing visualstudio 
+https://code.visualstudio.com/docs/supporting/errors
+
+
+
+window for code 
+https://code.visualstudio.com/docs/editor/command-line
+
+code-oss
