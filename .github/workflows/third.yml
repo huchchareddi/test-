@@ -2,7 +2,7 @@
 |   |** .github
 |       |** main.workflow
 
-workflow "test" {
+workflow "test-" {
   on = "EVENT"
   resolves = "ACTION3"
 }
