@@ -1,24 +1,22 @@
-
 |-- my-repo (test)
 |   |** .github
 |       |** main.workflow
 
-
-workflow "MYWORK" {
+workflow "test" {
   on = "EVENT"
   resolves = "ACTION3"
 }
 
 action "ACTION1" {
-  uses = "docker://image1"
+  uses = "docker://path"
 }
 
 action "ACTION2" {
   needs = "ACTION1"
-  uses = "docker://image2"
+  uses = "docker://visual_studio"
 }
 
 action "ACTION3" {
   needs = "ACTION2"
-  uses = "docker://image3"
+  uses = "docker://mail-Id"
 }
