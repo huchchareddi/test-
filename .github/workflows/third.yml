@@ -1,5 +1,7 @@
 
-name: test
+|-- my-repo (test)
+|   |** .github
+|       |** main.workflow
 
 
 workflow "MYWORK" {
