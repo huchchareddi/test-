@@ -1,3 +1,7 @@
+
+name: test
+
+
 workflow "MYWORK" {
   on = "EVENT"
   resolves = "ACTION3"
